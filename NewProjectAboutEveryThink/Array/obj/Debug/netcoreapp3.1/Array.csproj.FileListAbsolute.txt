@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\bin\Debug\netcoreapp3.1\If_Else     and     Swich.exe
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\bin\Debug\netcoreapp3.1\If_Else     and     Swich.deps.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\bin\Debug\netcoreapp3.1\If_Else     and     Swich.runtimeconfig.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\bin\Debug\netcoreapp3.1\If_Else     and     Swich.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\bin\Debug\netcoreapp3.1\If_Else     and     Swich.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\bin\Debug\netcoreapp3.1\If_Else     and     Swich.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.AssemblyInfo.cs
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\If_Else_If\obj\Debug\netcoreapp3.1\If_Else     and     Swich.genruntimeconfig.cache

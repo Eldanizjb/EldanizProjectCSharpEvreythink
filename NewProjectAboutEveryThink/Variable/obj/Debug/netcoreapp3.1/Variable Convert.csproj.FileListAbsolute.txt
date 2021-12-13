@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\bin\Debug\netcoreapp3.1\Variable Convert.exe
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\bin\Debug\netcoreapp3.1\Variable Convert.deps.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\bin\Debug\netcoreapp3.1\Variable Convert.runtimeconfig.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\bin\Debug\netcoreapp3.1\Variable Convert.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\bin\Debug\netcoreapp3.1\Variable Convert.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\bin\Debug\netcoreapp3.1\Variable Convert.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.AssemblyInfo.cs
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\Variable\obj\Debug\netcoreapp3.1\Variable Convert.genruntimeconfig.cache

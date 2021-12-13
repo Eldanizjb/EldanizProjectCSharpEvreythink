@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\bin\Debug\netcoreapp3.1\For Loop  and  Foeach loop.exe
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\bin\Debug\netcoreapp3.1\For Loop  and  Foeach loop.deps.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\bin\Debug\netcoreapp3.1\For Loop  and  Foeach loop.runtimeconfig.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\bin\Debug\netcoreapp3.1\For Loop  and  Foeach loop.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\bin\Debug\netcoreapp3.1\For Loop  and  Foeach loop.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\bin\Debug\netcoreapp3.1\For Loop  and  Foeach loop.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.AssemblyInfo.cs
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.dll
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.pdb
+C:\Users\ACER\Desktop\NewProjectAboutEveryThink\For Loop\obj\Debug\netcoreapp3.1\For Loop  and  Foeach loop.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "For Loop  and  Foeach loop/1.0.0": {
+        "runtime": {
+          "For Loop  and  Foeach loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "For Loop  and  Foeach loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
